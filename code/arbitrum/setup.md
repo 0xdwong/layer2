@@ -84,7 +84,7 @@ yarn gen:network
 ```
 
 执行结果如下：
-![](/media/editor/2_20220915233811833921.jpeg)
+<!-- ![](/media/editor/2_20220915233811833921.jpeg) -->
 
 将打印出来的这些地址配置到 arbitrum-tutorials 项目中的各个模块
 1. Deposit
