@@ -30,7 +30,7 @@ blockscout=false  是否启动 blockscout
 ```
 
 如果启动过程中报错如下：
-![](/media/editor/1_20220915233711398444.png)
+<!-- ![](/media/editor/1_20220915233711398444.png) -->
 
 请把` force_init `设置成 true 就行.
 

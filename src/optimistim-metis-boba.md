@@ -24,7 +24,7 @@ Optimism 使用了 optimistic rollup。 当您提交交易时，交易数据将�
 
 Optimism 是一种“Optimistic Rollup”，它基本上只是描述区块链的一种奇特方式，它捎带了另一个“父”区块链的安全性。具体来说，Optimistic Rollups 利用其父链的共识机制（如 PoW 或 PoS），而不是提供自己的。在 Optimism 的案例中，这个父区块链是以太坊。
 
-![](/media/editor/1231_20220531164020243458.png)
+<!-- ![](/media/editor/1231_20220531164020243458.png) -->
 
 #### 1. 块存储
 
