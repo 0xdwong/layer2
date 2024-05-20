@@ -23,7 +23,7 @@
 * [第十九章：Layer2 生态概览](./src/layer2-eco.md)
 * [第二十章：如何设计一条 layer2 的公链](./src/layer2-design.md)
 * [第二十一章：总结](./src/last-ret.md)
-* [附录：零知识证明](https://github.com/guoshijiang/cryptography)
+<!-- * [附录：零知识证明](https://github.com/guoshijiang/cryptography) -->
 
 ## 代码 
 * [第一章：Arbitrum 的 Nitro 本地网络启动与 ETH/ERC20 充提测试教程](./code/arbitrum/setup.md)
