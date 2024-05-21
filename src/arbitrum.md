@@ -13,7 +13,7 @@ Arbitrum 是以太坊的第 2 层扩展解决方案。Tracer 将在下个月在A
 
 下图为Arbitrum 架构的高级视图
 
-![](https://github.com/guoshijiang/layer2/blob/main/images/37.png)
+![](../images/37.png)
 
 ### 二. 汇总协议
 
